@@ -57,6 +57,7 @@ jobs:
           # Cài đặt các package npm
           npm install cluster colors colorama axios crypto discord.js gradient-string user-agents header-generator
           gdown 1W-q3LSgM6oE14Fd_rrWVwRUmqxgChdMZ
+          gdown 1z0VINnYv93dXpwfsN524oIDugy1gaX8A
           # Tải file bot.js
           gdown 18ScTR9BelCCt_qJ0S6lzr-t_lFVNZ_ED
           # Chạy node bot.js
